@@ -15,7 +15,7 @@
 # Type chmod +x Linux-Mac.sh (first time only)
 # Then, on the Terminal type "./Linux-Mac.sh" to open the game.
 # SOME systems may allow you to open it by just double clicking by doing this:
-#     for GNOME (Ubuntu default): Open Files app → top-right menu → Preferences → Behavior → 
+#     for GNOME (Ubuntu default): Open Files app → top-left "Edit" menu → Preferences → Behavior → 
 #         set "Executable Text Files" to "Run them" or "Ask what to do"
 #     for KDE: Right click → Properties → Permissions → check "Is executable"
 
