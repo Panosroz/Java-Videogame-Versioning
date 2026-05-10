@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
-# run.sh — Mac / Linux launcher wrapper
 # Place this next to GameLauncher.jar
-# Make executable: chmod +x run.sh
+# Make executable: chmod +x run.sh (first time only)
+# On mac: double click this file to open game
+# On Linux: open terminal and type "./Linux-Mac.sh" to open game
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 
