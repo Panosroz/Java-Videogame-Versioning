@@ -12,7 +12,7 @@
 
 # On Linux:
 # Right click inside this folder, → Open in Terminal
-# Type chmod +x run.sh (first time only)
+# Type chmod +x Linux-Mac.sh (first time only)
 # Then, on the Terminal type "./Linux-Mac.sh" to open the game.
 # SOME systems may allow you to open it by just double clicking by doing this:
 #     for GNOME (Ubuntu default): Open Files app → top-right menu → Preferences → Behavior → 
