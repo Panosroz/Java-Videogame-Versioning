@@ -48,9 +48,8 @@ Bob wakes up with no memories. Only his name. A mysterious voice calling itself 
 | --- | --- |
 | `W` `A` `S` `D` | Move |
 | `F` | Cast a spell |
-| `P` | Pause / Unpause |
 | `ENTER` | Main menu → Start game |
-| `ESC` | In-game → Main menu · Pause → In-game · Main menu → Exit |
+| `ESC` | In-game → Pause · Pause → In-game · Main menu → Exit |
 
 ---
 
