@@ -67,11 +67,10 @@ Bob wakes up with no memories. Only his name. A mysterious voice calling itself 
 ## 🗺️ Roadmap
 
 * [X] Core movement & world map
-* [ ] Dialogue system with consequence tracking
 * [ ] Necromancy ability system
+* [ ] Dialogue system with consequence tracking
 * [ ] NPC memory & reputation system
 * [ ] Main story arc, who put a bounty on Bob?
-* [ ] Sam backstory & relationship arc
 
 ---
 
